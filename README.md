@@ -36,3 +36,4 @@ Helpful Links:
 - https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c (Interface vs Type Alias)
 - https://basarat.gitbooks.io/typescript/docs/types/type-assertion.html (Type Assertion)
 - http://definitelytyped.org/ (Search for types packages i.e. React)
+- https://create-react-app.dev/docs/adding-typescript (CREATE-REACT-APP TYPESCRIPT INSTALLATION)
